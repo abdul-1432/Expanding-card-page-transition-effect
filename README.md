@@ -1,6 +1,6 @@
 # Expanding Card Page Transition Effect
 
-![Demo](demo.gif)
+![1](https://github.com/abdul-1432/Expanding-card-page-transition-effect/assets/124916666/887f85e0-b39c-4ef1-b372-861add3e642b)
 
 The Expanding Card Page Transition Effect is a simple and eye-catching way to enhance user experience during page navigation. This effect involves a set of cards that expand and reveal more content when clicked, creating a seamless transition between different sections of your website or web application.
 
