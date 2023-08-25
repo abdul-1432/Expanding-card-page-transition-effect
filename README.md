@@ -41,7 +41,7 @@ You should have a basic understanding of HTML, CSS, and JavaScript.
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/expanding-card-page-transition.git
+   git clone https://github.com/abdul-1432/Expanding-card-page-transition-effect
    ```
 
 2. **Navigate to the project folder**:
