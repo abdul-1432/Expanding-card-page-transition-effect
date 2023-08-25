@@ -5,6 +5,7 @@
 ![3](https://github.com/abdul-1432/Expanding-card-page-transition-effect/assets/124916666/c7ea9bd6-796c-4087-b64d-c11585b4d1c5)
 ![4](https://github.com/abdul-1432/Expanding-card-page-transition-effect/assets/124916666/caf94d08-3c54-4a4f-8824-7d789c9b7166)
 ![5](https://github.com/abdul-1432/Expanding-card-page-transition-effect/assets/124916666/41677487-22e6-4f99-8f05-bfd21e88182f)
+![6](https://github.com/abdul-1432/Expanding-card-page-transition-effect/assets/124916666/42edca5a-679c-4a7d-b21d-42b07bbc0b87)
 
 
 
